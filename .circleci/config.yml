@@ -5,9 +5,6 @@ workflows:
   build:
     jobs:
       - build
-      - deploy:
-          requires:
-            - build
 
 jobs:
   build:
