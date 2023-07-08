@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\.circleci",
-    "\\bin",
-    "\\public",
-    "\\public\\stylesheets",
-    "\\routes",
-    "\\views"
+    "\\bin"
   ],
-  "SelectedNode": "\\app.js",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
