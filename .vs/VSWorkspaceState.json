@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\.circleci",
-    "\\bin"
+    "\\bin",
+    "\\routes",
+    "\\views"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\views\\index.ejs",
   "PreviewInSolutionExplorer": false
 }
